@@ -1,4 +1,2 @@
 # Module 2 VBA-challenge
-## VBA script and excel file attached here
-## Both an empty and populated version of the data file have been attached
-## The empty version has the macro built in for testing
+## VBA script file attached here
